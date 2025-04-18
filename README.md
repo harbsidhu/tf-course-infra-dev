@@ -1,2 +1,3 @@
-# tf-course-infra-dev
-Terraform - Repo for TF Practice
+ # This is dev Terraform repository for Terrafrom Course -- infra. 
+ The repo was last updated by Harbrinder Sidhu
+ This has been added using templatefile() function
